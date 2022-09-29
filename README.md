@@ -5,6 +5,6 @@ SDB Mini Bank Management Project using VB
 
 
 
-<img align="center" alt= "Heshan Tharindu kalubowila" src="SDB.jpg (1370×770) (raw.githubusercontent.com)"/>
+<img align="center" alt= "Heshan Tharindu kalubowila" src="https://github.com/heshant3/Mini-Bank-Management--Project/blob/main/bank/SDB.jpg?raw=true"/>
 
 
